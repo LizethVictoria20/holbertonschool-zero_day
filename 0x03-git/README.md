@@ -1,1 +1,1 @@
-Command about Git
+Command about Git - Update
